@@ -1,0 +1,15 @@
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\bin\Debug\buoi6.exe.config
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\bin\Debug\buoi6.exe
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\bin\Debug\buoi6.pdb
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\bin\Debug\EntityFramework.dll
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\bin\Debug\EntityFramework.SqlServer.dll
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\bin\Debug\EntityFramework.xml
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\bin\Debug\EntityFramework.SqlServer.xml
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.csproj.AssemblyReference.cache
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.Form1.resources
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.Properties.Resources.resources
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.csproj.GenerateResource.cache
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.csproj.CoreCompileInputs.cache
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.csproj.CopyComplete
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.exe
+F:\studyingdocs\CMP170\repos\buoi6\buoi6\obj\Debug\buoi6.pdb
